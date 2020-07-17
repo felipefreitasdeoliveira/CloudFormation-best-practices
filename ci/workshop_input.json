@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "oliveife@gmail.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "workshop"
     },
     {
         "ParameterKey": "WebserverCIDR",
@@ -17,7 +17,7 @@
     },
     {
         "ParameterKey": "QSS3KeyPrefix",
-        "ParameterValue": "qs-workshop/"
+        "ParameterValue": "quickstart-taskcat-ci/"
     },
     {
         "ParameterKey": "QSS3BucketName",
